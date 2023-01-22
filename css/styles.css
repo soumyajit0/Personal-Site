@@ -1,0 +1,23 @@
+hr{
+    border-style: none;
+    border-color: orange;
+    border-top-style: dotted;
+    height: 0px;
+    width: 5%;
+    border-width: 5px;
+}
+h1{
+    color: #F55050;
+}
+h2{
+    color: brown;
+}
+.intro{
+    width: 80%;
+    text-align: center;
+}
+
+.topbottom{
+    width: 100%;
+    border-color: #03C988;
+}
